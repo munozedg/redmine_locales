@@ -1,4 +1,4 @@
-# Spanish translations for Rails
+﻿# Spanish translations for Rails
 # by Francisco Fernando García Nieto (ffgarcianieto@gmail.com)
 # Redmine spanish translation:
 # by J. Cayetano Delgado (Cayetano _dot_ Delgado _at_ ioko _dot_ com)
@@ -228,7 +228,7 @@ es:
   button_unwatch: Desactivar seguimiento
   button_update: Actualizar
   button_view: Ver
-  button_watch: Monitorizar
+  button_watch: Seguir
   default_activity_design: Diseño
   default_activity_development: Desarrollo
   default_doc_category_tech: Documentación técnica
@@ -367,7 +367,7 @@ es:
   label_all_words: Todas las palabras
   label_and_its_subprojects: "%{value} y proyectos secundarios"
   label_applied_status: Aplicar estado
-  label_assigned_to_me_issues: Tareas que me están asignadas
+  label_assigned_to_me_issues: Tareas que me han sido asignadas
   label_associated_revisions: Revisiones asociadas
   label_attachment: Archivo
   label_attachment_delete: Borrar el archivo
@@ -479,9 +479,9 @@ es:
   label_internal: Interno
   label_issue: Tarea
   label_issue_added: Tarea añadida
-  label_issue_category: Categoría de las tareas
-  label_issue_category_new: Nueva categoría
-  label_issue_category_plural: Categorías de las tareas
+  label_issue_category: Clasificación de tareas
+  label_issue_category_new: Nueva categoria
+  label_issue_category_plural: Categorias
   label_issue_new: Nueva tarea
   label_issue_plural: Tareas
   label_issue_status: Estado de la tarea
@@ -510,9 +510,9 @@ es:
   label_logout: Terminar sesión
   label_max_size: Tamaño máximo
   label_me: yo mismo
-  label_member: Miembro
-  label_member_new: Nuevo miembro
-  label_member_plural: Miembros
+  label_member: Colaborador
+  label_member_new: Nuevo colaborador
+  label_member_plural: Colaboradores
   label_message_last: Último mensaje
   label_message_new: Nuevo mensaje
   label_message_plural: Mensajes
@@ -643,8 +643,8 @@ es:
   label_watched_issues: tareas en seguimiento
   label_week: Semana
   label_wiki: Wiki
-  label_wiki_edit: Modificación Wiki
-  label_wiki_edit_plural: Modificaciones Wiki
+  label_wiki_edit: Edición Wiki
+  label_wiki_edit_plural: Ediciones Wiki
   label_wiki_page: Página Wiki
   label_wiki_page_plural: Páginas Wiki
   label_workflow: Flujo de trabajo
@@ -706,10 +706,10 @@ es:
   permission_edit_wiki_pages: Modificar páginas wiki
   permission_log_time: Anotar tiempo dedicado
   permission_manage_boards: Administrar foros
-  permission_manage_categories: Administrar categorías de tareas
+  permission_manage_categories: Administrar clasificación de tareas
   permission_manage_files: Administrar archivos
   permission_manage_issue_relations: Administrar relación con otras tareas
-  permission_manage_members: Administrar miembros
+  permission_manage_members: Administrar colaboradores
   permission_manage_news: Administrar noticias
   permission_manage_public_queries: Administrar consultas públicas
   permission_manage_repository: Administrar repositorio
@@ -802,7 +802,7 @@ es:
   text_project_destroy_confirmation: ¿Estás seguro de querer eliminar el proyecto?
   text_reassign_time_entries: 'Reasignar las horas a esta tarea:'
   text_regexp_info: ej. ^[A-Z0-9]+$
-  text_repository_usernames_mapping: "Establezca la correspondencia entre los usuarios de Redmine y los presentes en el log del repositorio.\nLos usuarios con el mismo nombre o correo en Redmine y en el repositorio serán asociados automáticamente."
+  text_repository_usernames_mapping: "Establezca la correspondencia entre los usuarios del sistemae y los presentes en el log del repositorio.\nLos usuarios con el mismo nombre o correo serán asociados automáticamente."
   text_minimagick_available: MiniMagick disponible (opcional)
   text_select_mail_notifications: Seleccionar los eventos a notificar
   text_select_project_modules: 'Seleccione los módulos a activar para este proyecto:'
@@ -931,7 +931,7 @@ es:
   error_can_not_remove_role: Este rol está en uso y no puede ser eliminado.
   error_can_not_delete_tracker: Este tipo contiene tareas y no puede ser eliminado.
   field_principal: Principal
-  notice_failed_to_save_members: "Fallo al guardar miembro(s): %{errors}."
+  notice_failed_to_save_members: "Fallo al guardar colaboradores(s): %{errors}."
   text_zoom_out: Alejar
   text_zoom_in: Acercar
   notice_unable_delete_time_entry: Fue imposible eliminar la entrada de tiempo dedicado.
@@ -968,7 +968,7 @@ es:
   label_bulk_edit_selected_time_entries: Editar en bloque las horas seleccionadas
   text_time_entries_destroy_confirmation: ¿Está seguro de querer eliminar (la hora seleccionada/las horas seleccionadas)?
   label_role_anonymous: Anónimo
-  label_role_non_member: No miembro
+  label_role_non_member: No afiliado
   label_issue_note_added: Nota añadida
   label_issue_status_updated: Estado actualizado
   label_issue_priority_updated: Prioridad actualizada
@@ -1101,7 +1101,7 @@ es:
   permission_delete_documents: Borrar documentos
   label_gantt_progress_line: Línea de progreso
   setting_jsonp_enabled: Habilitar soporte de JSONP
-  field_inherit_members: Heredar miembros
+  field_inherit_members: Heredar colaboradores
   field_closed_on: Cerrada
   field_generate_password: Generar contraseña
   setting_default_projects_tracker_ids: Tipos de tarea habilitados por defecto
@@ -1131,13 +1131,13 @@ es:
   label_unknown_plugin: Plugin desconocido
   label_radio_buttons: Botones de selección excluyentes
   label_group_anonymous: Usuarios anónimos
-  label_group_non_member: Usuarios no miembros
+  label_group_non_member: Usuarios no afiliados
   label_add_projects: Añadir Proyectos
   field_default_status: Estado Predeterminado
   text_subversion_repository_note: 'Ejemplos: file:///, http://, https://, svn://, svn+[tunnelscheme]://'
   field_users_visibility: Visibilidad de Usuarios
   label_users_visibility_all: Todos los Usuarios Activos
-  label_users_visibility_members_of_visible_projects: Miembros de Proyectos Visibles
+  label_users_visibility_members_of_visible_projects: Colaboradores de Proyectos Visibles
   label_edit_attachments: Editar archivos adjuntos
   setting_link_copied_issue: Enlazar tarea cuando se copia
   label_link_copied_issue: Enlazar tarea copiada
@@ -1163,7 +1163,7 @@ es:
   label_parent_task_attributes_independent: Independiente de las subtareas
   label_time_entries_visibility_all: Todos los registros de tiempo
   label_time_entries_visibility_own: Los registros de tiempo creados por el usuario
-  label_member_management: Administración de Miembros
+  label_member_management: Administración de Colaboradores
   label_member_management_all_roles: Todos los roles
   label_member_management_selected_roles_only: Sólo estos roles
   label_password_required: Confirme su contraseña para continuar
@@ -1228,7 +1228,7 @@ es:
   label_font_monospace: Fuente Monospaced
   label_font_proportional: Fuente Proportional
   setting_timespan_format: Formato de timespan
-  label_table_of_contents: Índice de contenidos
+  label_table_of_contents: Tabla de contenidos
   setting_commit_logs_formatting: Aplicar formato de texto a los mensajes de commits
   setting_mail_handler_enable_regex: Habilitar expresiones regulares
   error_move_of_child_not_possible: 'Subtarea %{child} no ha podido ser movida al nuevo
@@ -1478,4 +1478,4 @@ es:
   button_copy_link: Copy link
   error_invalid_authenticity_token: Invalid form authenticity token.
   error_query_statement_invalid: An error occurred while executing the query and has
-    been logged. Please report this error to your Redmine administrator.
+    been logged. Please report this error to your system administrator.
