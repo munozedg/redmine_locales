@@ -2,6 +2,6 @@
 
 Translating/adapting EN-SP locales 
 
-Note: Use Notepad++ to save the modified language files with UNIX format & UTF-8 BOM before uploading into the Redmine instance
+IMPORTANT: Use Notepad++ to save the modified language files with UNIX format & UTF-8 BOM before uploading into the Redmine instance
 
 
