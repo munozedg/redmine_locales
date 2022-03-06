@@ -1,4 +1,4 @@
-﻿# Spanish translations for Rails
+# Spanish translations for Rails
 # by Francisco Fernando García Nieto (ffgarcianieto@gmail.com)
 # Redmine spanish translation:
 # by J. Cayetano Delgado (Cayetano _dot_ Delgado _at_ ioko _dot_ com)
@@ -246,7 +246,7 @@ es:
   default_priority_urgent: Urgente
   default_role_developer: Colaborador
   default_role_manager: Coordinador
-  default_role_reporter: Revisor 
+  default_role_reporter: Revisor
   default_tracker_bug: Errores
   default_tracker_feature: Tareas
   default_tracker_support: Soporte
@@ -307,7 +307,7 @@ es:
   field_language: Idioma
   field_last_login_on: Última conexión
   field_lastname: Apellido
-  field_login: Identificador
+  field_login: Login
   field_mail: Correo electrónico
   field_mail_notification: Notificaciones por correo
   field_max_length: Longitud máxima
@@ -878,9 +878,9 @@ es:
   setting_gravatar_default: Imagen Gravatar por defecto
   field_sharing: Compartir
   button_copy_and_follow: Copiar y seguir
-  label_version_sharing_hierarchy: Con todos los proyectos en esta misma linea jerárquica 
-  label_version_sharing_tree: Con el proyecto principal y todos sus descendientes  
-  label_version_sharing_descendants: Con todos los sub-proyectos de este proyecto 
+  label_version_sharing_hierarchy: Con todos los proyectos en esta misma linea jerárquica
+  label_version_sharing_tree: Con el proyecto principal y todos sus descendientes
+  label_version_sharing_descendants: Con todos los sub-proyectos de este proyecto
   label_version_sharing_system: Con todos los proyectos del sistema
   label_version_sharing_none: No compartir
   error_can_not_archive_project: Este proyecto no puede ser archivado

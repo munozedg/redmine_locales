@@ -1,4 +1,4 @@
-﻿# Spanish translations for Rails
+# Spanish translations for Rails
 # by Francisco Fernando García Nieto (ffgarcianieto@gmail.com)
 # Redmine spanish translation:
 # by J. Cayetano Delgado (Cayetano _dot_ Delgado _at_ ioko _dot_ com)
@@ -309,7 +309,7 @@ es-PA:
   field_language: Idioma
   field_last_login_on: Última conexión
   field_lastname: Apellido
-  field_login: Identificador
+  field_login: Login
   field_mail: Correo electrónico
   field_mail_notification: Notificaciones por correo
   field_max_length: Longitud máxima

@@ -1,4 +1,4 @@
-﻿# Spanish translations for Rails
+# Spanish translations for Rails
 # by Francisco Fernando García Nieto (ffgarcianieto@gmail.com)
 # Redmine spanish translation:
 # by J. Cayetano Delgado (Cayetano _dot_ Delgado _at_ ioko _dot_ com)
@@ -309,7 +309,7 @@ es-CO:
   field_language: Idioma
   field_last_login_on: Última conexión
   field_lastname: Apellido
-  field_login: Identificador
+  field_login: Login
   field_mail: Correo electrónico
   field_mail_notification: Notificaciones por correo
   field_max_length: Longitud máxima
@@ -797,7 +797,7 @@ es-CO:
   text_issue_category_reassign_to: Reasignar las tareas a la categoría
   text_issue_updated: "La tarea %{id} ha sido actualizada por %{author}."
   text_issues_destroy_confirmation: '¿Seguro que quiere borrar las tareas seleccionadas?'
-  text_issues_ref_in_commit_messages: Referencia a tareas en mensajes commit 
+  text_issues_ref_in_commit_messages: Referencia a tareas en mensajes commit
   text_length_between: "Longitud entre %{min} y %{max} caracteres."
   text_load_default_configuration: Cargar la configuración por defecto
   text_no_configuration_data: "Todavía no se han configurado perfiles, ni tipos, estados y flujo de trabajo asociado a tareas. Se recomiendo encarecidamente cargar la configuración por defecto. Una vez cargada, podrá modificarla."
